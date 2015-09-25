@@ -2,7 +2,9 @@
 A repository of pseudocode for common algorithms.
 
 ### Available / In-Progress
-- Nothing yet :(
+- BubbleSort
+- SelectionSort
+- InsertionSort
 
 ### Contributers
 - Shubham Gogna
