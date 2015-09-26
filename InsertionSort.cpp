@@ -1,11 +1,13 @@
 /*!****************************************************************************
 @file InsertionSort.cpp
 
-Case     | Time Complexity
+Case           |  Complexity
 -------------------------------------------------------------------------------
-Best     |  O(n) comparisons, O(1) swaps
-Average  |  O(n^2) comparisons and swaps
-Worst    |  O(n^2) comparisons and swaps
+Best           |  O(n)   comparisons   O(1)   swaps
+Average        |  O(n^2) comparisons   O(n^2) swaps
+Worst          |  O(n^2) comparisons   O(n^2) swaps
+-------------------------------------------------------------------------------
+Space (Worst)  |  O(n)   total         O(1) auxiliary
 ******************************************************************************/
 
 template <typename T>

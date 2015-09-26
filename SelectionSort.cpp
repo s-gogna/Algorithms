@@ -1,11 +1,13 @@
 /*!****************************************************************************
 @file SelectionSort.cpp
 
-Case     | Time Complexity
+Case           |  Complexity
 -------------------------------------------------------------------------------
-Best     |  O(n^2)
-Average  |  O(n^2)
-Worst    |  O(n^2)
+Best           |  O(n^2) comparisons   O(1) swaps
+Average        |  O(n^2) comparisons   O(n) swaps
+Worst          |  O(n^2) comparisons   O(n) swaps
+-------------------------------------------------------------------------------
+Space (Worst)  |  O(n)   total         O(1) auxiliary
 ******************************************************************************/
 
 template <typename T>

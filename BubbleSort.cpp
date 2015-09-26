@@ -1,11 +1,13 @@
 /*!****************************************************************************
 @file BubbleSort.cpp
 
-Case     | Time Complexity
+Case           |  Complexity
 -------------------------------------------------------------------------------
-Best     |  O(n)
-Average  |  O(n^2)
-Worst    |  O(n^2)
+Best           |  O(n)   comparisons   O(1)   swaps
+Average        |  O(n^2) comparisons   O(n^2) swaps
+Worst          |  O(n^2) comparisons   O(n^2) swaps
+-------------------------------------------------------------------------------
+Space (Worst)  |  O(n)   total         O(1) auxiliary
 ******************************************************************************/
 
 template <typename T>
