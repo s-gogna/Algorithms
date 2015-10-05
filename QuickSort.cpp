@@ -46,9 +46,9 @@ size_t partition(vector<T>& input, size_t low, size_t high)
 
          // b = b - 1
 
-      // If i < j
+      // If a < b
 
-         // Swap input[i] and input[j]
+         // Swap input[a] and input[b]
 
-   // Return j
+   // Return b
 }
